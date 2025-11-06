@@ -38,7 +38,8 @@ This repository showcases a fully reproducible deep-learning workflow — from p
 
 | Metric | Value |
 |:--|:--|
-| Validation Accuracy | **0.991** |
+| Validation Accuracy | **0.991** |       <img width="483" height="374" alt="Result1" src="https://github.com/user-attachments/assets/cb0b9e7f-e33f-46e8-a880-cdac97ae1d2a" />
+
 | Validation Loss | **0.032** |
 | Epochs Trained | 3 |
 | Batch Size | 8 |
