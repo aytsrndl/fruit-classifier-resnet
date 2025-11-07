@@ -3,7 +3,7 @@
 This project builds upon my previous work developing image classification models during my Machine Learning internship at Proya Technology, where I explored multi-label image classification using Google Vertex AI.  
 Here, I independently designed and implemented a transfer-learning pipeline using the ResNet50 architecture in TensorFlow/Keras to perform **multi-class classification** on the Fruits-360 dataset.  
 
-By leveraging ResNet’s pretrained ImageNet weights, the model achieves 99.1 % validation accuracy in just 3 epochs, demonstrating the power of transfer learning for small, specialized datasets.  
+By leveraging ResNet’s pretrained ImageNet weights, the model achieves 99 % validation accuracy in just 3 epochs, demonstrating the power of transfer learning for small, specialized datasets.  
 This repository showcases a fully reproducible deep-learning workflow — from preprocessing and augmentation to model training, evaluation, and visualization — ready to be deployed or extended.
 
 ---
